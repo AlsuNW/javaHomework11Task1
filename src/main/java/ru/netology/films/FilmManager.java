@@ -6,9 +6,9 @@ public class FilmManager {
     public FilmManager() {
         this.limit = 5;
     }
-    /* public FilmManager(int limit) {
+    public FilmManager(int limit) {
         this.limit = limit;
-    } */
+    }
 
 
     public void add(String film) {
